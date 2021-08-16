@@ -14,7 +14,7 @@ Our company has been tasked with looking to see if there is a positivity bias fo
 
 - Next are the normal reviews left on the website.
 
-  * [Regular_Review](https://github.com/Luis-Acevedo/Amazon_Vine_Analysis/blob/main/Data/Photos/Regular_Review.png)
+  * ![Regular_Review](https://github.com/Luis-Acevedo/Amazon_Vine_Analysis/blob/main/Data/Photos/Regular_Review.png)
 
   * There are a total of 40,471 reviews left on amazon that were not paid for. Of those we have 15,663 that are 5-star reviews accounting for 38.7% of the total reviews.
 
